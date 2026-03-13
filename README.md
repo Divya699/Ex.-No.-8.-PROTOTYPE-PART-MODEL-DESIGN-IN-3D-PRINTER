@@ -47,7 +47,7 @@
 
 ## Output:
 <img width="1907" height="955" alt="image" src="https://github.com/user-attachments/assets/340b3ac2-ac00-4b74-8c55-9afce2bcb104" />
-<img width="1907" height="955" alt="Screenshot 2026-03-13 185111" src="https://github.com/user-attachments/assets/4abbdfbc-2392-4aa0-a90c-0e1d248a5075" />
+<img width="1907" height="1011" alt="Screenshot 2026-03-13 184654" src="https://github.com/user-attachments/assets/93da0202-9d55-4eae-b9ac-252529e96013" />
 
 
 ### Name: DIVYA PRIYA.S
